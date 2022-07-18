@@ -13,6 +13,7 @@ h1 {
   color: var(--blue1);
   font-size: 4rem !important;
   font-weight: 900 !important;
+  letter-spacing: 3px;
 }
 
 .text-big {
@@ -22,4 +23,19 @@ h1 {
 .nav {
   color: var(--blue1);
   font-size: 1.3rem;
+}
+
+.myNav-link:hover {
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.myNav-link > a {
+  color: var(--blue1);
+  text-decoration: none !important;
+}
+
+.footer {
+  color: var(--blue1);
+  font-size: 1.2rem;
 }
