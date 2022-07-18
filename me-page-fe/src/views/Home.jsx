@@ -12,11 +12,11 @@ function Home() {
             I am a full-stack web developer with knowledge of ReactJS, NodeJS
             with Express, Bootstrap, MongoDB and PostgreSQL. I have experimented
             with TypeScript, Jest and Swagger. You can read more about my
-            developer journey <Link to="/">here</Link>. I am currently working
-            for public sector organization in Slovakia developing a web app for
-            collecting feedback from the users. You can check out some of my
-            work here. If you are interested in working with me, you can reach
-            me on{" "}
+            developer journey <Link to="/bio">here</Link>. I am currently
+            working for public sector organization in Slovakia developing a web
+            app for collecting feedback from the users. You can check out some
+            of my work here. If you are interested in working with me, you can
+            reach me on{" "}
             <a href="https://www.linkedin.com/in/konecnymartin/">
               LinkedIn{" "}
               <sup>
