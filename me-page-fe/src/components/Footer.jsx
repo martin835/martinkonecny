@@ -6,7 +6,7 @@ function MyFooter() {
 
   return (
     <Container>
-      <Row className="mt-5 mb-3  footer">
+      <Row className="mt-5   footer">
         <Col className="d-flex justify-content-center">
           <span>© {format(date, "Y")} Martin Konečný |</span>
           <span className="ml-1 myNav-link">
@@ -15,6 +15,13 @@ function MyFooter() {
           <span className="ml-1 myNav-link">
             {" "}
             <a href="https://www.linkedin.com/in/konecnymartin/">LinkedIn</a>
+          </span>
+        </Col>
+      </Row>
+      <Row className="mb-3  footer">
+        <Col className="d-flex justify-content-center">
+          <span className="mt-2 text-small">
+            <i>Created with ❤️ in React v18</i>{" "}
           </span>
         </Col>
       </Row>
