@@ -173,6 +173,37 @@ function MyWork() {
           </ul>
         </Col>
       </Row>
+      <Row>
+        <Col md={{ span: 1 }} className="big-number">
+          5.
+        </Col>
+        <Col md={8}>
+          <a
+            href="https://github.com/martin835/chatApp-FE"
+            className="h2-nolink"
+          >
+            <h2 className=" mt-4">
+              ChatApp - WhatsApp clone{" "}
+              <sup>
+                <RiExternalLinkLine />
+              </sup>
+            </h2>{" "}
+          </a>
+          <div className="img-heroProject-container">
+            <img src={whatsup1} className="img-fluid " />
+          </div>
+          <p className="text-medium mt-4">
+            This is whatsApp-like app to experiment with web sockets. It is for
+            learning purposes only with no intention for production.
+          </p>
+          <h3>USED TECH</h3>
+          <ul className="text-medium">
+            <li>ReactJS on the front-end</li>
+            <li>NODE JS + MongoDB on the back-end</li>
+            <li>Socket.io library to manage web sockets</li>
+          </ul>
+        </Col>
+      </Row>
     </Container>
   );
 }
