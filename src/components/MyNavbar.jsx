@@ -12,7 +12,10 @@ function MyNavbar() {
         </Col>
         <Col xs={12} sm={6}>
           <div className="float-sm-right">
-            <span className="mr-4 myNav-link" onClick={() => navigate("/")}>
+            <span
+              className="mr-4 myNav-link"
+              onClick={() => navigate("/martinkonecny")}
+            >
               home{" "}
             </span>
 
