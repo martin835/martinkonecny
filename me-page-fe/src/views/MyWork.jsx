@@ -4,6 +4,7 @@ import tellGov1 from "../assets/tellGov1.png";
 import linkedin1 from "../assets/linkedin1.png";
 import seatchTS1 from "../assets/seatchTS1.png";
 import whatsup1 from "../assets/whatsup1.png";
+import spotify1 from "../assets/spotify1.png";
 
 function MyWork() {
   return (
@@ -152,7 +153,7 @@ function MyWork() {
             className="h2-nolink"
           >
             <h2 className=" mt-4">
-              ChatApp - WhatsApp clone{" "}
+              WhatsApp clone with socket.io{" "}
               <sup>
                 <RiExternalLinkLine />
               </sup>
@@ -179,29 +180,24 @@ function MyWork() {
         </Col>
         <Col md={8}>
           <a
-            href="https://github.com/martin835/chatApp-FE"
+            href="https://github.com/martin835/spotify-react-redux/tree/main"
             className="h2-nolink"
           >
             <h2 className=" mt-4">
-              ChatApp - WhatsApp clone{" "}
+              Spotify clone with Redux{" "}
               <sup>
                 <RiExternalLinkLine />
               </sup>
             </h2>{" "}
           </a>
           <div className="img-heroProject-container">
-            <img src={whatsup1} className="img-fluid " />
+            <img src={spotify1} className="img-fluid " />
           </div>
           <p className="text-medium mt-4">
-            This is whatsApp-like app to experiment with web sockets. It is for
-            learning purposes only with no intention for production.
+            Learning project to create a front-end web app as close as possible
+            to spotify.com. App has functional music search - it uses external
+            API to fetch search results. App uses Redux to store search result.
           </p>
-          <h3>USED TECH</h3>
-          <ul className="text-medium">
-            <li>ReactJS on the front-end</li>
-            <li>NODE JS + MongoDB on the back-end</li>
-            <li>Socket.io library to manage web sockets</li>
-          </ul>
         </Col>
       </Row>
     </Container>
