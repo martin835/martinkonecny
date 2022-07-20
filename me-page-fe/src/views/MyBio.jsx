@@ -4,8 +4,6 @@ import { GrDownload } from "react-icons/gr";
 import resume from "../assets/CV_konecny_2022_v2.pdf";
 
 function MyBio() {
-  let navigate = useNavigate();
-
   return (
     <Container>
       <Row>

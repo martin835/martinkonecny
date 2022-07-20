@@ -39,3 +39,8 @@ h1 {
   color: var(--blue1);
   font-size: 1.2rem;
 }
+
+.big-number {
+  font-size: 5rem;
+  color: var(--blue1);
+}

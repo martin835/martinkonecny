@@ -6,6 +6,7 @@ import MyNavbar from "./components/MyNavbar";
 import Home from "./views/Home";
 import MyFooter from "./components/Footer";
 import MyBio from "./views/MyBio";
+import MyWork from "./views/MyWork";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="bio" element={<MyBio />} />
+        <Route path="work" element={<MyWork />} />
       </Routes>
       <MyFooter />
     </>
