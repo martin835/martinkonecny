@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/martinkonecny/static/css/main.babd922e.css",
+    "main.js": "/martinkonecny/static/js/main.3b1f4db1.js",
+    "static/media/spotify1.png": "/martinkonecny/static/media/spotify1.8dd514383eae8795b80b.png",
+    "static/media/linkedin1.png": "/martinkonecny/static/media/linkedin1.70f2903b426ffbded754.png",
+    "static/media/CV_konecny_2022_v2.pdf": "/martinkonecny/static/media/CV_konecny_2022_v2.30030965dbef6fd977a4.pdf",
+    "static/media/seatchTS1.png": "/martinkonecny/static/media/seatchTS1.5c15f888bf911171cb05.png",
+    "static/media/tellGov1.png": "/martinkonecny/static/media/tellGov1.98ecc25a0f3de1d4c121.png",
+    "static/media/whatsup1.png": "/martinkonecny/static/media/whatsup1.c45618ff5af0edf2e7b1.png",
+    "index.html": "/martinkonecny/index.html",
+    "main.babd922e.css.map": "/martinkonecny/static/css/main.babd922e.css.map",
+    "main.3b1f4db1.js.map": "/martinkonecny/static/js/main.3b1f4db1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babd922e.css",
+    "static/js/main.3b1f4db1.js"
+  ]
+}
