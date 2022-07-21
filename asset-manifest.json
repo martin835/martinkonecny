@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/martinkonecny/static/css/main.de30f703.css",
-    "main.js": "/martinkonecny/static/js/main.dc3238c0.js",
+    "main.css": "/martinkonecny/static/css/main.c0edcc60.css",
+    "main.js": "/martinkonecny/static/js/main.4362cf2d.js",
     "static/media/spotify1.png": "/martinkonecny/static/media/spotify1.8dd514383eae8795b80b.png",
     "static/media/linkedin1.png": "/martinkonecny/static/media/linkedin1.70f2903b426ffbded754.png",
     "static/media/CV_konecny_2022_v2.pdf": "/martinkonecny/static/media/CV_konecny_2022_v2.30030965dbef6fd977a4.pdf",
@@ -9,11 +9,11 @@
     "static/media/tellGov1.png": "/martinkonecny/static/media/tellGov1.98ecc25a0f3de1d4c121.png",
     "static/media/whatsup1.png": "/martinkonecny/static/media/whatsup1.c45618ff5af0edf2e7b1.png",
     "index.html": "/martinkonecny/index.html",
-    "main.de30f703.css.map": "/martinkonecny/static/css/main.de30f703.css.map",
-    "main.dc3238c0.js.map": "/martinkonecny/static/js/main.dc3238c0.js.map"
+    "main.c0edcc60.css.map": "/martinkonecny/static/css/main.c0edcc60.css.map",
+    "main.4362cf2d.js.map": "/martinkonecny/static/js/main.4362cf2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.de30f703.css",
-    "static/js/main.dc3238c0.js"
+    "static/css/main.c0edcc60.css",
+    "static/js/main.4362cf2d.js"
   ]
 }
