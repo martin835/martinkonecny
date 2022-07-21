@@ -1,10 +1,7 @@
-import { Col, Container, Nav, Row } from "react-bootstrap";
-import { Link, Route, Routes } from "react-router-dom";
-import "./App.css";
-import { RiExternalLinkLine } from "react-icons/ri";
+import { Route, Routes } from "react-router-dom";
+import MyFooter from "./components/Footer";
 import MyNavbar from "./components/MyNavbar";
 import Home from "./views/Home";
-import MyFooter from "./components/Footer";
 import MyBio from "./views/MyBio";
 import MyWork from "./views/MyWork";
 
