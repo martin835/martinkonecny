@@ -7,10 +7,14 @@ function MyFooter() {
   return (
     <Container>
       <Row className="mt-5   footer">
-        <Col className="d-flex justify-content-center">
-          <span>© {format(date, "Y")} Martin Konečný |</span>
+        <Col className="d-flex flex-column flex-sm-row align-items-center justify-content-center">
+          <span>
+            © {format(date, "Y")} Martin Konečný{" "}
+            <span className="d-none d-sm-inline">|</span>
+          </span>
           <span className="ml-1 myNav-link">
-            <a href="https://github.com/martin835">github</a> |{" "}
+            <a href="https://github.com/martin835">github</a>{" "}
+            <span className="d-none d-sm-inline">|</span>{" "}
           </span>
           <span className="ml-1 myNav-link">
             {" "}
